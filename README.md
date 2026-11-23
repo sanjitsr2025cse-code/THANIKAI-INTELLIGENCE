@@ -4,9 +4,9 @@
 
 Automatically detect, number, and export dimensional annotations from engineering PDF drawings using native vector text extraction, an OCR fallback pipeline, and an interactive canvas editor.
 
-**Annotate screen** — detected balloons overlaid on the engineering drawing, with the sidebar showing all 64 extracted annotations:
+**Application screenshot** — Thanikai AI displaying an annotated engineering drawing:
 
-![Thanikai AI — Annotate Screen](docs/screenshot.jpg)
+![Thanikai AI application](docs/thanikai-ai-app.png)
 
 **Export screen** — the generated Excel inspection report with all balloon data populated:
 
@@ -453,8 +453,8 @@ erDiagram
 ### Option A — Docker Compose (Recommended)
 
 ```bash
-git clone https://github.com/sanjitsr2025cse-code/Thanikai--Ai.git
-cd Thanikai--Ai
+git clone https://github.com/sanjitsr2025cse-code/THANIKAI-INTELLIGENCE.git
+cd THANIKAI-INTELLIGENCE
 docker compose up --build
 ```
 
@@ -586,7 +586,7 @@ The exported `.xlsx` workbook contains a single sheet titled **Characteristic In
 ## Project Structure
 
 ```
-THANIKAI AI/
+THANIKAI-AI/
 ├── README.md                        # This file
 ├── CHANGELOG.md                     # Version history
 ├── docker-compose.yml               # Three-service Docker orchestration
@@ -696,10 +696,3 @@ THANIKAI AI/
 
 ---
 
-## Authors
-
-| Name | GitHub |
-|------|--------|
-| Vidhan Manihar | [vidhan13i](https://github.com/vidhan13i) |
-| Manas Chougule | [manasgeek](https://github.com/manasgeek) |
-| Vividha Bhirud | [VividhaBhirud](https://github.com/VividhaBhirud) |
