@@ -694,5 +694,9 @@ THANIKAI-AI/
 - Implement the YOLO training data pipeline so `balloon_detector.pt` can be reproduced.
 - Add support for multi-page export scoped to the current page.
 
+## Author
+
+Sanjit SR
+
 ---
 
